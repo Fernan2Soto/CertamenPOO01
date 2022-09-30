@@ -1,0 +1,6 @@
+C:\Users\FERNANDO\Desktop\Certamen\IPVG\bin\Debug\IPVG.dll
+C:\Users\FERNANDO\Desktop\Certamen\IPVG\bin\Debug\IPVG.pdb
+C:\Users\FERNANDO\Desktop\Certamen\IPVG\obj\Debug\IPVG.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Desktop\Certamen\IPVG\obj\Debug\IPVG.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\Certamen\IPVG\obj\Debug\IPVG.dll
+C:\Users\FERNANDO\Desktop\Certamen\IPVG\obj\Debug\IPVG.pdb

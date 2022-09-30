@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certame1POO", "Certame1POO.csproj", "{DCF7ADDE-AE5E-45E8-B6CA-A39DFB7EA5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPVG", "..\IPVG\IPVG.csproj", "{B365FE18-BDC1-470C-A6F8-66AC1CB75479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF7ADDE-AE5E-45E8-B6CA-A39DFB7EA5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF7ADDE-AE5E-45E8-B6CA-A39DFB7EA5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF7ADDE-AE5E-45E8-B6CA-A39DFB7EA5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF7ADDE-AE5E-45E8-B6CA-A39DFB7EA5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B365FE18-BDC1-470C-A6F8-66AC1CB75479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B365FE18-BDC1-470C-A6F8-66AC1CB75479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B365FE18-BDC1-470C-A6F8-66AC1CB75479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B365FE18-BDC1-470C-A6F8-66AC1CB75479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127CFED9-B7C8-4EC2-976B-38CF74171F5B}
+	EndGlobalSection
+EndGlobal

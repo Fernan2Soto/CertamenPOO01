@@ -1,0 +1,11 @@
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\bin\Debug\Certame1POO.exe.config
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\bin\Debug\Certame1POO.exe
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\bin\Debug\Certame1POO.pdb
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\bin\Debug\IPVG.dll
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\bin\Debug\IPVG.pdb
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\obj\Debug\Certame1POO.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\obj\Debug\Certame1POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\obj\Debug\Certame1POO.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\obj\Debug\Certame1POO.csproj.CopyComplete
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\obj\Debug\Certame1POO.exe
+C:\Users\FERNANDO\Desktop\Certamen\Certame1POO\obj\Debug\Certame1POO.pdb
